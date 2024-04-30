@@ -1,0 +1,8 @@
+.input {
+	display: flex;
+	flex-direction: column;
+}
+.input-label {
+	font-weight: bold;
+	margin: 10px 0 10px;
+}

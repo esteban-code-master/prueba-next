@@ -1,0 +1,30 @@
+.product {
+	text-decoration: none;
+	color: inherit;
+}
+
+.product-wrapper-image {
+	background: #dddadaa8;
+	border-radius: 10px;
+	padding: 40px;
+}
+
+.product-image {
+	width: 100%;
+	object-fit: contain;
+}
+
+.product-title {
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.product-price {
+	border: 3px solid #30f130;
+	border-radius: 6px;
+	padding: 4px;
+	display: inline;
+}
+.product-color {
+	color: #b6b2b2;
+}

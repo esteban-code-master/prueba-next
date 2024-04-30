@@ -1,0 +1,10 @@
+.header {
+	background: rgba(255, 255, 255, 0.816);
+	box-shadow: 5px 3px 2px #f4f2f2;
+	padding: 20px;
+	position: sticky;
+	top: 0;
+	left: 0;
+	display: flex;
+	justify-content: end;
+}
